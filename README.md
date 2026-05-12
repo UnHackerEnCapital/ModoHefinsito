@@ -41,4 +41,17 @@ Debido al uso de syscalls específicas como `splice`, este script requiere:
 python3 modo_hefinsito.py
 ```
 
+---
+---
+
+## ⚙️ Compilación y Ejecución del script en C
+
+```bash
+gcc -static ModoHefinsito.c -o ModoHefinsito
+chmod +x ModoHefinsito
+./ModoHefinsito
+```
+
+---
+
 > ⚖️ **Creditos de investigacion y desarrollo del script: copy.fail**

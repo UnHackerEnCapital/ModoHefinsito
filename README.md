@@ -47,7 +47,7 @@ python3 modo_hefinsito.py
 ## ⚙️ Compilación y Ejecución del script en C
 
 ```bash
-gcc -static ModoHefinsito.c -o ModoHefinsito
+gcc ModoHefinsito.c -o ModoHefinsito
 chmod +x ModoHefinsito
 ./ModoHefinsito
 ```
